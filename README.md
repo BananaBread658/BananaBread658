@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BananaBread658
+- 👀 I’m interested in software developing
+- 🌱 I’m currently learning basic programming
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - ahran.dymond@gmail.com
